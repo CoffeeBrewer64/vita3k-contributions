@@ -14,3 +14,7 @@ https://github.com/Vita3K/Vita3K-Android/pull/107
 # Game testing (desktop)
 
 # Game testing (Android)
+
+https://github.com/Vita3K/Vita3K-Android/issues/139
+
+https://github.com/Vita3K/Vita3K-Android/issues/140
