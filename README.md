@@ -11,6 +11,8 @@ https://github.com/Vita3K/Vita3K-Android/pull/107
 
 # Issues
 
+https://github.com/Vita3K/Vita3K/issues/2261
+
 https://github.com/Vita3K/Vita3K/issues/2262
 
 https://github.com/Vita3K/Vita3K/issues/2263
